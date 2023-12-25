@@ -1,0 +1,43 @@
+.flex-container {
+    display: flex;
+    align-items: center;
+    padding: 20px;
+  }
+  
+  .logo-container {
+    margin-left: 20px;
+  }
+  
+  .logo-image {
+    width: 200px;
+    height: 100px;
+  }
+  
+  .business-name {
+    font-size: 24px;
+    margin-bottom: 10px;
+  }
+  
+  .business-address {
+    font-size: 18px;
+    color: #555;
+    margin-bottom: 5px;
+  }
+  
+  .business-phone {
+    font-size: 16px;
+    color: #555;
+    margin-bottom: 5px;
+  }
+  
+  .business-owner {
+    font-size: 16px;
+    color: #555;
+    margin-bottom: 5px;
+  }
+  
+  .business-description {
+    font-size: 14px;
+    color: #555;
+  }
+  
